@@ -27,10 +27,6 @@ export default class CreateTransactions1606144926578
             type: 'varchar',
           },
           {
-            name: 'category_id',
-            type: 'varchar',
-          },
-          {
             name: 'created_at',
             type: 'timestamp',
             default: 'now()',
